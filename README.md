@@ -1,9 +1,10 @@
-🚀 Hey, I'm Josh. I sling code in Swift and React Native, making apps that don't just work, but rock. 🤘
-
-📱 Mobile dev is my jam. I do UIs in Swift and wrangle React Native without breaking a sweat. It's all in a day's work, fueled by good coffee. ☕️💻
-
-🔧 Love fixing things up. Simple solutions to gnarly problems? That’s my kind of fun. And yeah, my desk's a bit of a creative chaos.
-
-🎶 When not coding, I'm probably messing with music or AI. 
-
-🤝 Got an idea? Let’s chat. We might end up creating something cool. 🚀
+<div align="center">
+  <div style="background: white; border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); max-width: 600px; margin: -50px auto; padding: 20px;">
+    <h2>👋 Hi, I'm Josh!</h2>
+    <p> I sling code in Swift and React Native, making apps that don't just work, but rock 🤘</p>
+    <h3>💻 Languages and Tools:</h3>
+    <p>
+      <img src="https://fontawesome.com/icons/react?f=brands&s=solid" alt="React Native" width="40" height="40"/>
+      <img src="https://fontawesome.com/icons/swift?f=brands&s=solid" alt="Swift" width="40" height="40"/>
+  </div>
+</div>
