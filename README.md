@@ -4,18 +4,6 @@
       A digital wizard who speaks Swift and conjures apps with React
       Native! 🧙‍♂️✨
     </h2>
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-      alt="React Native"
-      width="50"
-      height="40"
-    />
-    <img
-      src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png"
-      alt="Swift"
-      width="40"
-      height="40"
-    />
     <h3>
       📱 Sleek UIs and bare-metal performance in Swift? Got it.
     </h3>
