@@ -14,7 +14,7 @@
       🔧 I’m all about elegant solutions for complex challenges
     </h3>
     <h3>
-    My workspace? A masterpiece of creative chaos, but really just a bed for my cats 🐱
+    🖥️ My workspace? A masterpiece of creative chaos, but really just a bed for my cats 🐱
     </h3>
     <h3>
       🎶 Off the clock, I'm either crafting tunes or tinkering with AI.
